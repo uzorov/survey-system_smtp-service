@@ -1,0 +1,32 @@
+.env
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Visual Studio specific
+*.vs/
+*.userosscache
+*.sln.docstates
+
+# Dotnet tools
+.nuget/
+packages/
+
+# Docker
+*.tar
+
